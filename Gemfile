@@ -9,7 +9,7 @@ gem 'sqlite3-ruby', '1.2.5', :require => 'sqlite3'
 
 
 gem 'jquery-rails'
-gem 'rspec-rails', '~> 2.8.1'
+gem 'rspec-rails'
 
 group :test do
   gem 'factory_girl_rails', '~> 1.7.0'
